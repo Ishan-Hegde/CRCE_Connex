@@ -1,6 +1,6 @@
-# brain_school
+# CRCE_Connex
 
-school app for students
+College app for Fr. CRCE.
 
 ## Getting Started
 
